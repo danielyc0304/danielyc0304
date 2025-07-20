@@ -21,7 +21,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          commits_authoring: YouCheng Lin, danielyc0304, danielyc0304@users.noreply.github.com
           plugin_languages_details: percentage, lines
           plugin_traffic: yes
           plugin_wakatime: yes
