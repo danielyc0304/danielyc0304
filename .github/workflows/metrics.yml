@@ -21,8 +21,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: YouCheng Lin
+          commits_authoring: YouCheng Lin, danielyc0304, danielyc0304@users.noreply.github.com
           plugin_languages_details: percentage, lines
+          plugin_commits_repositories: owner, contributed
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
