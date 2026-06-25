@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **danielyc0304/danielyc0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
